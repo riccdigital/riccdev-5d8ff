@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: >-
-      
+      Tutorials and 
     actions:
       - label: Contact Me
         url: /contact
