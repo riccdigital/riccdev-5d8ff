@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'RiccDev.'
     content: >-
-      Web Developer
+      Learn how to code
   - section_id: about
     type: section_content
     title: About
