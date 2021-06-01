@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: >-
-      Tutorials and resources for 
+      Tutorials and resources for self-taught Javascript developers.
     actions:
       - label: Contact Me
         url: /contact
